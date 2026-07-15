@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Graham.
 
-## 👀 I’m a  a Senior Software Engineering Tech Lead, Consultant, and Mentor based in Benowa, Queensland, Australia. Also, I'm the Fastest Learner!
+## 👀 I’m a Senior Software Engineering Tech Lead, Consultant, and Mentor based in Benowa, Queensland, Australia. Also, I'm the Fastest Learner!
 
 - I ❤️ to learn, develop and experiment with programs and awesome things on internet.
 - I ❤️ to connect with more people.
